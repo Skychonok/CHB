@@ -1,15 +1,22 @@
 package com.example.chboardgame;
 
+import android.content.res.AssetManager;
+import android.opengl.Matrix;
+
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public class QuestionsController {
 
+
+
     static public final Integer firstQuestionIndex = 0;
     static public final Integer lastQuestionIndex = 0;
 
     static public class QuestionBuilder{
+
 
         Question question = new Question();
 
@@ -60,7 +67,7 @@ public class QuestionsController {
         return new Question();
     }
 
-    public void init(){
-        questions = QuestionBank.buildQuestions();
+    public void init(AssetManager assetManager){
+        questions = QuestionBank.buildQuestionsFromFile(assetManager);
     }
 }

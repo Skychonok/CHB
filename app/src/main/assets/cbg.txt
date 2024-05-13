@@ -1,0 +1,4 @@
+0|Play solo or with others?|@drawable/cbg|Solo|1
+1|Brain burning?|Image|Make it melt|2|Not at all|3|A little|10
+2|Mage Knight|@drawable/mageknight
+3|Like to negotiate?|@drawable/hostage|Yes|4|No|5

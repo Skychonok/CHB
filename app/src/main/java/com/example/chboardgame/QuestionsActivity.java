@@ -38,7 +38,7 @@ public class QuestionsActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        questionsController.init();
+        questionsController.init(getAssets());
 
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
