@@ -1,4 +1,65 @@
-0|Play solo or with others?|@drawable/cbg|Solo|1
-1|Brain burning?|Image|Make it melt|2|Not at all|3|A little|10
+0|Play solo or with others?|@drawable/cbg|Solo|1|2 players|18
+1|Brain burning?|@drawable/cbg|Make it melt|2|Not at all|3|A little|10
 2|Mage Knight|@drawable/mageknight
 3|Like to negotiate?|@drawable/hostage|Yes|4|No|5
+4|Hostage Negotiation|@drawable/cbg
+5|Like been trapped?|@drawable/cbg|Yes|7|No|6
+6|Epic|@drawable/cbg
+7|Escape what?|@drawable/cbg|Dream|8|Island|9
+8|Dream|@drawable/cbg
+9|Island|@drawable/cbg
+10|Investigate horror?|@drawable/cbg|Yes|11|No|12
+11|Arkham Horror|@drawable/cbg
+12|War or peace?|@drawable/cbg|War|13|Peace|14
+13|This war of mine|@drawable/cbg
+14|Build empire in space or earth?|@drawable/cbg|Earth|15|Space|16
+15|Scythe|@drawable/cbg
+16|Terraforming Mars|@drawable/cbg
+17|2 players or more?|@drawable/cbg|2 players|18
+18|Team play?|@drawable/cbg|Cooperate|19|Compete|29
+19|Go on adventure together?|@drawable/cbg|Yes|20|No|23
+20|Where do you want to go?|@drawable/cbg|Open world|21|Dungeon|22
+21|The 7th continent|@drawable/cbg
+22|Gloomhaven|@drawable/cbg
+23|Carve your own story line?|@drawable/cbg|Yes|24|No|25
+24|Pandemic Legacy|@drawable/cbg
+25|Investigate or escape?|@drawable/cbg|Escape|26|Invastigate|27
+26|Exit the Game|@drawable/cbg
+27|Crime or horror mystery?|@drawable/cbg|Crime|28|Horror Mystery|11
+28|Detective|@drawable/cbg
+29|Does it have to be a war?|@drawable/cbg|Yes|30|No|41
+30|What kind of war?|@drawable/cbg|World war|31|Fantasy war|38
+31|Difficulty?|@drawable/cbg|Easy|32|Medium|33|Hard|34
+32|Memoir44|@drawable/cbg
+33|Conflict of Heroes|@drawable/cbg
+34|How many sittings?|@drawable/cbg|One|35|Two|36|Three|37
+35|Unconditional Surrender!|@drawable/cbg
+36|Axis Allies: Europe 1940|@drawable/cbg
+37|D-Day|@drawable/cbg
+38|Star Wars or Lord of the Rings?|@drawable/cbg|Star Wars|39|Lord of the Rings|40
+39|Star Wars: Rebellion|@drawable/cbg
+40|War of Ring|@drawable/cbg
+41|Abstract theme?|@drawable/cbg|No|42|Yes|60
+42|Strategic or fun?|@drawable/cbg|Strategic|43|Light and fun|51
+43|Civilizations?|@drawable/cbg|Yes|44|No|45
+44|Through the Ages|@drawable/cbg
+45|Wild west?|@drawable/cbg|Yes|46|No|47
+46|Great western trail|@drawable/cbg
+47|Space or Industrial age?|@drawable/cbg|Industrial|48|Space|49
+48|Brass|@drawable/cbg
+49|Galactic empire or Mars?|@drawable/cbg|Galactic empire|50|Mars|16
+50|New Frontiers|@drawable/cbg
+51|Build something?|@drawable/cbg|No|52|Yes|55
+52|Trade or trash?|@drawable/cbg|Trash|53|Trade|54
+53|Space Hulk|@drawable/cbg
+54|Taipur|@drawable/cbg
+55|Civilization or village?|@drawable/cbg|Village|56|Civilization|57
+56|Imperial Settlers|@drawable/cbg
+57|Cards or board?|@drawable/cbg|Board|58|Cards|59
+58|Deus|@drawable/cbg
+59|7 wonders: Duel|@drawable/cbg
+60|Wizard contest?|@drawable/cbg|Yes|61|No|62
+61|Seasons|@drawable/cbg
+62|Cloth patches or tiles?|@drawable/cbg|Patches|63|Tiles|64
+63|Patchwork|@drawable/cbg
+64|Azul|@drawable/cbg
